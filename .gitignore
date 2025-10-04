@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# KiCad
+*.bak
+
+# Generated Libraries
+/libraries/
+
+# Logs
+debug.log
+
+# Cache
+.cache/
+*.pkl
